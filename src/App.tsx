@@ -27,7 +27,7 @@ function App() {
       <BrowserRouter>
         <ScrollToTop />
         <Header />
-        <main className="min-h-screen bg-slate-50">
+        <main className="min-h-screen bg-cream">
           <Routes>
             {/* Phase 1: homepage only. Shop, Product detail, Cart, Checkout
                 and Wishlist routes are added in later phases. */}
